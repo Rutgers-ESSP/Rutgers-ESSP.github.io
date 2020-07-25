@@ -7,7 +7,6 @@ main:
     url: /projects/
   - title: "Software"
     url: /software/
-  - title: "Giving"
-    url: https://eoas.rutgers.edu/donations/
   - title: "Contact"
     url: /contact/
+    
