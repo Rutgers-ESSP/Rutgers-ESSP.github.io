@@ -1,11 +1,13 @@
 ---
-title: "Heat stress may affect more than 1.2 billion people annually by 2100"
+title: "Paper: Escalating global exposure to compound heat-humidity extremes with warming"
 date: 2020-03-12
 author: Dawei Li
 categories:
-  - news
+  - paper
 ---
+* [Dawei Li, Jiacan Yuan, Robert Kopp. Escalating global exposure to compound heat-humidity extremes with warming. _Environmental Research Letters_, 2020; DOI: 10.1088/1748-9326/ab7d04](https://doi.org/10.1088/1748-9326/ab7d04)
 
+## Heat stress may affect more than 1.2 billion people annually by 2100
 *by Todd Bates, Rutgers University*
 
 Heat stress from extreme heat and humidity will annually affect areas now home to 1.2 billion people by 2100, assuming current greenhouse gas emissions, according to a Rutgers study.
@@ -31,5 +33,3 @@ An estimated 1.2 billion people would be affected with 3 degrees Celsius (5.4 de
 In New York City, extreme heat and humidity, comparable to the worst day in a typical year today, is projected to occur on four days in a typical year with global warming of 1.5 degrees Celsius (2.7 degrees Fahrenheit) and about eight days per year with warming of 2 degrees Celsius (3.6 degrees Fahrenheit). With 3 degrees Celsius (5.4 degrees Fahrenheit) of warming, extreme heat and humidity are projected to occur for about 24 days in a typical year.
 
 The paper was co-authored by Jiacan Yuan, a former Rutgers assistant research professor in the Department of Earth and Planetary Sciences who is now at Fudan University in China.
-
-* [Dawei Li, Jiacan Yuan, Robert (Bob) Kopp. Escalating global exposure to compound heat-humidity extremes with warming. _Environmental Research Letters_, 2020; DOI: 10.1088/1748-9326/ab7d04](https://doi.org/10.1088/1748-9326/ab7d04)

@@ -1,11 +1,14 @@
 ---
-title: "Modern sea-level rise linked to human activities"
+title: "Paper: Cenozoic sea-level and cryospheric evolution from deep-sea geochemical and continental margin records"
 date: 2020-05-15
 author: Bob Kopp
 categories:
-  - news
+  - paper
 ---
 
+* [Kenneth G. Miller, James V. Browning, W. John Schmelz, Robert E. Kopp, Gregory S. Mountain, and James D. Wright. Cenozoic sea-level and cryospheric evolution from deep-sea geochemical and continental margin records. _Science Advances_, 2020 DOI: 10.1126/sciadv.aaz1346](https://doi.org/10.1126/sciadv.aaz1346)
+
+## Modern sea-level rise linked to human activities
 *by Todd Bates, Rutgers University*
 
 New research by Rutgers scientists reaffirms that modern sea-level rise is linked to human activities and not to changes in Earth's orbit.
@@ -25,6 +28,3 @@ The study showed that periods of nearly ice-free conditions, such as 17 million 
 The largest sea-level decline took place during the last glacial period about 20,000 years ago, when the water level dropped by about 400 feet. That was followed by a foot per decade rise in sea level -- a rapid pace that slowed from 10,000 to 2,000 years ago. Sea-level rise was then at a standstill until around 1900, when rates began rising as human activities began influencing the climate.
 
 Future work reconstructing the history of sea-level changes before 48 million years ago is needed to determine the times when the Earth was entirely ice-free, the role of atmospheric carbon dioxide in glaciation and the cause of the natural fall in atmospheric carbon dioxide before humans.
-
-
-* [Kenneth G. Miller, James V. Browning, W. John Schmelz, Robert E. Kopp, Gregory S. Mountain, and James D. Wright. Cenozoic sea-level and cryospheric evolution from deep-sea geochemical and continental margin records. _Science Advances_, 2020 DOI: 10.1126/sciadv.aaz1346](https://doi.org/10.1126/sciadv.aaz1346)

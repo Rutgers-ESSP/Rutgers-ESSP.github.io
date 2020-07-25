@@ -1,10 +1,14 @@
 ---
-title: "New flood damage framework helps planners prepare for sea-level rise"
+title: "Paper: A Flood Damage Allowance Framework for Coastal Protection With Deep Uncertainty in Sea Level Rise"
 date: 2020-03-11
 author: DJ Rasmussen
 categories:
-  - news
+  - paper
 ---
+
+* [D. J. Rasmussen, Maya K. Buchanan, Robert E. Kopp, Michael Oppenheimer. A Flood Damage Allowance Framework for Coastal Protection With Deep Uncertainty in Sea Level Rise. _Earth's Future_, 2020; 8 (3) DOI: 10.1029/2019EF001340](https://doi.org/10.1029/2019EF001340)
+
+## New flood damage framework helps planners prepare for sea-level rise
 
 *by Keely Swan, Princeton University*
 
@@ -30,4 +34,3 @@ For example, in the wake of Hurricane Sandy, the Army Corps of Engineers is curr
 
 "As coastal cities and communities prepare for a changing coastline and climate in the coming decades, tools like this one that incorporate uncertainty and integrate oceanographic and financial information will help planners develop a more thorough analysis of their best defense options," the researchers said; "In the end, a variety of strategies will be needed to protect most coastal cities."
 
-* [D. J. Rasmussen, Maya K. Buchanan, Robert E. Kopp, Michael Oppenheimer. A Flood Damage Allowance Framework for Coastal Protection With Deep Uncertainty in Sea Level Rise. _Earth's Future_, 2020; 8 (3) DOI: 10.1029/2019EF001340](https://doi.org/10.1029/2019EF001340)
