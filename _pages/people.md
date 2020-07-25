@@ -6,7 +6,7 @@ toc: true
 
 ## Leadership
 
-#### [Bob Kopp, Group Director](http://www.bobkopp.net/)
+#### [Bob Kopp, Lab Director](http://www.bobkopp.net/)
 {:.no_toc}
 
 ![Bob Kopp](/assets/images/portraits/bobkopp.jpg){: style="float: right; margin:20px; max-width: 150px"}
