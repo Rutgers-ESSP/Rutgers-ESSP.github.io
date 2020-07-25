@@ -11,4 +11,4 @@ feature_row4:
     alt: "Rutgers Institute of Earth, Ocean, and Atmospheric Sciences"
 ---
 
-The Earth System Science & Policy Lab is housed within the [Rutgers Institute of Earth, Ocean, and Atmospheric Sciences](http://eoas.rutgers.edu) and the Rutgers School of Arts and Sciences' [Department of Earth and Planetary Sciences](http://eps.rutgers.edu/).
+The Earth System Science & Policy Lab is housed within the [Rutgers Institute of Earth, Ocean, and Atmospheric Sciences](http://eoas.rutgers.edu) and the Rutgers School of Arts and Sciences' [Department of Earth and Planetary Sciences](http://eps.rutgers.edu/). We are one of the core partners in the [Climate Impact Lab](http://www.impactlab.org/). 
