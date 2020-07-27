@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Rutgers Earth System Science & Policy Lab
-email: robert.kopp@rutgers.edu
+email: robert-dot-kopp-at-rutgers.edu
 description: The Rutgers Earth System Science & Policy Lab takes a transdisciplinary, computationally intensive approach to investigating the evolution of the Earth system, human influences on the Earth system, and policy approaches for managing those human influences. We heavily employ the techniques of Bayesian statistics, geophysical and geochemical modeling, integrated assessment modeling, and quantitative risk analysis. 
 # twitter_username: username
 github_username: Rutgers-ESSP
@@ -55,7 +55,9 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-#author:
+author:
+  google:
+    analytics: UA-173703526-1
 #  name   : "First Lastname"
 #  avatar : "/assets/images/bio-photo.jpg"
 #  bio    : "My awesome biography constrained to a sentence or two goes here."

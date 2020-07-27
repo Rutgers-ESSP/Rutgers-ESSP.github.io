@@ -2,7 +2,22 @@
 
 Bob Kopp:
   name        : "Bob Kopp"
+  bio    : "Lab Director"
   avatar      : "/assets/images/portraits/bobkopp.jpg"
+  email: robert-dot-kopp-at-rutgers-dot-edu
+  twitter: bobkopp
+  links:
+    - label: "Web page"
+      icon: "fas fa-home"
+      url: "https://www.bobkopp.net/"
+    - label: "Google Scholar"
+      icon: "fab fa-google"
+      url: "https://scholar.google.com/citations?user=ceifbhUAAAAJ"
+    - label: "ORCID"
+      icon: "fab fa-orcid"
+      url: "http://orcid.org/0000-0003-4016-9428"
+
+
 
 DJ Rasmussen:
   name        : "DJ Rasmussen"
