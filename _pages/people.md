@@ -59,7 +59,7 @@ toc: true
 * [Dawei Li](https://scholar.google.com/citations?user=qfAPnEIAAAAJ&hl=en&oi=sra)
 * [Eric Morrow](http://www.ericmorrow.ca)
 *  [Laura Reynolds](https://scholar.google.com/citations?hl=en&user=dsGpWHcAAAAJ)
-* [Jiacan Yuan](https://www.researchgate.net/profile/Jiacan_Yuan)
+* [Jiacan Yuan](https://scholar.google.com/citations?user=FXb2_P0AAAAJ&hl=en)
 
 #### Graduate students co-advised
 {:.no_toc}
