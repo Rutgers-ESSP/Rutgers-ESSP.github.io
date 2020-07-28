@@ -48,6 +48,7 @@ Daniel Gilford:
   name        : "Daniel Gilford"
   bio    : "Postdoc"
   home : "http://danielgilford.com"
+  twitter: danielgilford
   avatar      : "/assets/images/portraits/danielgilford.jpg"
   longbio: >
       I am a climate scientist seeking to answer the question "How do aspects of climate evolve and affect local coastal communities?" My current research focuses the deep uncertainties in polar ice-sheet contributions to global and local sea level rise. I use a blend of statistical and machine learning techniques to study ice-sheet model emulation, the emergence of Antarctic contributions to sea level rise, and paleoclimate/observational constraints on ice-sheet model projections. I studied Atmospheric Science with Prof. Susan Solomon at the Massachusetts Institute of Technology, and received my doctorate degree in 2018. My graduate research fused middle atmospheric chemistry, radiation, and tropical cyclone theory to explore tropopause region influences on hurricane intensities. Connecting my expertise in sea level and hurricane science, I am also actively investigating changes in future coastal hazards and flooding. I’m motivated to work on societally relevant problems and science communication, and I aspire to connect science and communities. I also aim to teach and prepare the next generation of scientists to meet the challenges posed by climate change.
@@ -105,30 +106,3 @@ Roger Creel:
 Dawei Li:
   name        : "Dawei Li"
   avatar      : "/assets/images/portraits/daweili.jpg"
-
-Billy Rick:
-  name        : "Billy Rick"
-  bio         : "What do you want, jewels? I am a very extravagant man."
-  avatar      : "/assets/images/bio-photo-2.jpg"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:billyrick@rick.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/extravagantman"
-
-Cornelius Fiddlebone:
-  name        : "Cornelius Fiddlebone"
-  bio         : "I ordered what?"
-  avatar      : "/assets/images/bio-photo.jpg"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:cornelius@thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/rhymeswithsackit"
