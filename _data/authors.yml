@@ -18,7 +18,8 @@ Greg Garner:
   name        : "Greg Garner"
   bio    : "Assistant Research Professor"
   avatar      : "/assets/images/portraits/greggarner.jpg"
-  scholar: TAW1TZAAAAAJ
+  google:
+    scholar: TAW1TZAAAAAJ
   home: https://sites.google.com/site/gggarner121/
   longbio: >
      I am a meteorologist and climate scientist working on a comprehensive computational framework for projecting sea-level rise in a changing climate.  Broadly, I’m interested in how people use tools and information to inform decisions.  This has afforded me the opportunity to study a diverse range of topics including weather, climate change, atmospheric chemistry, air quality, robust decision making, sea-level rise, heatwaves, and more alongside experts in social sciences, statistics, economics, philosophy, mathematics, and engineering.  I use state-of-the-art optimization tools, statistical methods, integrated assessment models, and data analysis to investigate complex problems across multiple disciplines.  I emphasize the importance of science communication throughout my research by publishing with open-access (when available), performing science-outreach activities, and sharing the products of my work through web-based tools and code repositories.
@@ -47,7 +48,8 @@ Daniel Gilford:
   bio    : "Postdoc"
   home : "http://danielgilford.com"
   twitter: danielgilford
-  scholar: NS90lkUAAAAJ
+  google: 
+    scholar: NS90lkUAAAAJ
   avatar      : "/assets/images/portraits/danielgilford.jpg"
   longbio: >
       I am a climate scientist seeking to answer the question "How do aspects of climate evolve and affect local coastal communities?" My current research focuses the deep uncertainties in polar ice-sheet contributions to global and local sea level rise. I use a blend of statistical and machine learning techniques to study ice-sheet model emulation, the emergence of Antarctic contributions to sea level rise, and paleoclimate/observational constraints on ice-sheet model projections. I studied Atmospheric Science with Prof. Susan Solomon at the Massachusetts Institute of Technology, and received my doctorate degree in 2018. My graduate research fused middle atmospheric chemistry, radiation, and tropical cyclone theory to explore tropopause region influences on hurricane intensities. Connecting my expertise in sea level and hurricane science, I am also actively investigating changes in future coastal hazards and flooding. I’m motivated to work on societally relevant problems and science communication, and I aspire to connect science and communities. I also aim to teach and prepare the next generation of scientists to meet the challenges posed by climate change.
@@ -83,7 +85,8 @@ DJ Rasmussen:
   bio    : "Ph.D. student, Princeton SPIA"
   home: http://www.djrasmussen.co
   avatar      : "/assets/images/portraits/djrasmussen.jpg"
-  scholar: yocPWzYAAAAJ
+  google: 
+    scholar: yocPWzYAAAAJ
   longbio: >
      I study both the physical and social science aspects of sea-level rise and coastal floods. My career goal is to produce new research that equips coastal stakeholders with information that can aid decisions on coastal flood protection strategies. My hope is that these efforts will lead to future planning and policies that save money and protect human lives. Recently, I’ve been developing a framework for designing coastal flood protection under uncertain sea-level rise. I also examine the politics surrounding efforts to conceive, design, and implement coastal flood protection mega-projects, such as storm surge barriers. I expect to complete my PhD in Public Policy & International Affairs in 2020, and I also have a BS in Atmospheric & Oceanic Science and an MS in Civil & Environmental Engineering.
 
