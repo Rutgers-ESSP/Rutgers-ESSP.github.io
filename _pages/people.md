@@ -39,9 +39,6 @@ toc: true
 
 ## External Affiliates
 
-{% assign author = site.data.authors['Ian Bolliger'] | default: author %}
-{% include person_blurb.md %}
-
 {% assign author = site.data.authors['Roger Creel'] | default: author %}
 {% include person_blurb.md %}
 
