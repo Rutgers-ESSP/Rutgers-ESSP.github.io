@@ -15,7 +15,7 @@ Bob Kopp:
 
 
 Greg Garner:
-  name        : "Greg Garner"
+  name        : "Gregory Garner"
   bio    : "Assistant Research Professor"
   avatar      : "/assets/images/portraits/greggarner.jpg"
   google:
@@ -42,6 +42,11 @@ Erica Ashe:
 Meredith Fish:
   name        : "Meredith Fish"
   bio    : "Postdoc"
+  avatar      : "/assets/images/portraits/meredithfish.jpg"
+  google:
+    scholar: ylBUGX4AAAAJ
+  longbio: >
+     Meredith completed her PhD at the Scripps Institution of Oceanography at UC San Diego for the Center for Western Weather and Water Extremes. Her dissertation focused on identifying and understanding successive atmospheric rivers that make landfall along the US West Coast, which are a type of compound event. Meredith is interested in the interaction of climate, extreme weather, policy and economics. She completed her undergraduate training at Penn State in meteorology and weather risk management. 
 
 Daniel Gilford:
   name        : "Daniel Gilford"
