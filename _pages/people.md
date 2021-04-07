@@ -36,9 +36,6 @@ toc: true
 {% assign author = site.data.authors['Kristen Joyse'] | default: author %}
 {% include person_blurb.md %}
 
-{% assign author = site.data.authors['DJ Rasmussen'] | default: author %}
-{% include person_blurb.md %}
-
 
 ## External Affiliates
 
@@ -48,18 +45,20 @@ toc: true
 {% assign author = site.data.authors['Roger Creel'] | default: author %}
 {% include person_blurb.md %}
 
+{% assign author = site.data.authors['DJ Rasmussen'] | default: author %}
+{% include person_blurb.md %}
 
 ## Alumni
 
 #### Postdocs
 {:.no_toc}
 
-* [Andra Garner](https://sites.google.com/site/andrajreed/home?authuser=0)
-* [Carling Hay](http://www.carlinghay.com)
-* [Dawei Li](https://scholar.google.com/citations?user=qfAPnEIAAAAJ&hl=en&oi=sra)
-* [Eric Morrow](http://www.ericmorrow.ca)
-*  [Laura Reynolds](https://scholar.google.com/citations?hl=en&user=dsGpWHcAAAAJ)
-* [Jiacan Yuan](https://scholar.google.com/citations?user=FXb2_P0AAAAJ&hl=en)
+* [Andra Garner](https://sites.google.com/site/andrajreed/home?authuser=0), now faculty at Rowan University
+* [Carling Hay](http://www.carlinghay.com), now Lead Climate Scientist at risQ
+* [Dawei Li](https://scholar.google.com/citations?user=qfAPnEIAAAAJ&hl=en&oi=sra),  now faculty at Shanghai Jiao Tong University
+* [Eric Morrow](http://www.ericmorrow.ca), now Director, Data Science - Machine Learning Centre of Excellence at BMO Financial Group
+*  [Laura Reynolds](https://scholar.google.com/citations?hl=en&user=dsGpWHcAAAAJ), now faculty at Worcester State
+* [Jiacan Yuan](https://scholar.google.com/citations?user=FXb2_P0AAAAJ&hl=en), now faculty at Fudan University
 
 #### Graduate students co-advised
 {:.no_toc}
@@ -69,7 +68,9 @@ toc: true
 * [Shankar Chandramowli](https://www.linkedin.com/pub/shankar-chandramowli/10/4a9/78), Rutgers Ph.D. '15 in Public Policy
 * [Maya Buchanan](https://www.linkedin.com/in/maya-buchanan-b544a87/), Princeton Ph.D. '17 in Public Policy
 * [Chris Johnson](), Rutgers Ph.D. '19 in Geological Sciences
+* [Ian Bolliger](https://www.linkedin.com/in/ianbolliger/), UC-Berkeley Ph.D. ’20 in Energy & Resources Group
 * [Megan Lickley](http://paocweb.mit.edu/people/mlickley), MIT Ph.D. '20 in Earth, Atmospheric and Planetary Sciences
+* [D.J. Rasmussen](http://www.djrasmussen.co), Princeton Ph.D. '20 in Public Policy
 
 
 #### Undergraduate students
