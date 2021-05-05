@@ -22,9 +22,6 @@ toc: true
 {% assign author = site.data.authors['Meredith Fish'] | default: author %}
 {% include person_blurb.md %}
 
-{% assign author = site.data.authors['Daniel Gilford'] | default: author %}
-{% include person_blurb.md %}
-
 {% assign author = site.data.authors['Jennifer Walker'] | default: author %}
 {% include person_blurb.md %}
   
@@ -40,6 +37,10 @@ toc: true
 ## External Affiliates
 
 {% assign author = site.data.authors['Roger Creel'] | default: author %}
+{% include person_blurb.md %}
+
+
+{% assign author = site.data.authors['Daniel Gilford'] | default: author %}
 {% include person_blurb.md %}
 
 {% assign author = site.data.authors['DJ Rasmussen'] | default: author %}
