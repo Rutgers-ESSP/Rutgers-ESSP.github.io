@@ -11,16 +11,14 @@ toc: true
 
 ## Research Faculty
 
-{% assign author = site.data.authors['Greg Garner'] | default: author %}
-{% include person_blurb.md %}
-
-## Postdocs
 
 {% assign author = site.data.authors['Erica Ashe'] | default: author %}
 {% include person_blurb.md %}
 
-{% assign author = site.data.authors['Meredith Fish'] | default: author %}
+{% assign author = site.data.authors['Greg Garner'] | default: author %}
 {% include person_blurb.md %}
+
+## Postdocs
 
 {% assign author = site.data.authors['Jennifer Walker'] | default: author %}
 {% include person_blurb.md %}
@@ -51,7 +49,9 @@ toc: true
 #### Postdocs
 {:.no_toc}
 
+* [Meredith Fish](https://scholar.google.com/citations?user=ylBUGX4AAAAJ), now Senior Data Scientist (Climate Analytics) at McKinsey & Company
 * [Andra Garner](https://sites.google.com/site/andrajreed/home?authuser=0), now faculty at Rowan University
+* [Daniel Gilford](http://danielgilford.com), now Climate Scientist at Climate Central
 * [Carling Hay](http://www.carlinghay.com), now Lead Climate Scientist at risQ
 * [Dawei Li](https://scholar.google.com/citations?user=qfAPnEIAAAAJ&hl=en&oi=sra),  now faculty at Shanghai Jiao Tong University
 * [Eric Morrow](http://www.ericmorrow.ca), now Director, Data Science - Machine Learning Centre of Excellence at BMO Financial Group
