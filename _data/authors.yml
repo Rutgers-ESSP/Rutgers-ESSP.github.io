@@ -11,8 +11,16 @@ Bob Kopp:
     scholar: ceifbhUAAAAJ
   orcid: 0000-0003-4016-9428
   longbio: >
-     I am a climate scientist, geobiologist, and climate policy scholar. I serve at Rutgers University as Director of the Rutgers Institute of Earth, Ocean & Atmospheric Sciences and as a professor in the Department of Earth & Planetary Sciences. My research focuses on understanding uncertainty in past and future climate change, with major emphases on sea-level change and on the interactions between physical climate change and the economy.
+     Robert Kopp is a climate scientist who serves at Rutgers University as a professor in the Department of Earth & Planetary Sciences and co-director of the University Office of Climate Action. He also directs the Megalopolitan Coastal Transformation Hub.
 
+Kathleen Parrish:
+  name        : "Kathleen Parrish"
+  bio    : "Program Coordinator"
+  avatar      : "/assets/images/portraits/kathleenparrish.jpg"
+  email: kathleen-dot-parrish-at-rutgers-dot-edu
+  linkedin: kathleenparrish
+  longbio: >
+     Kathleen Parrish is program coordinator for the Rutgers Earth System Science & Policy Lab, the Megalopolitan Coastal Transformation Hub, and the University Office of Climate Action.
 
 Greg Garner:
   name        : "Gregory Garner"

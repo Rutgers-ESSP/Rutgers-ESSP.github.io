@@ -11,11 +11,7 @@ toc: true
 
 ## Research Faculty
 
-
 {% assign author = site.data.authors['Erica Ashe'] | default: author %}
-{% include person_blurb.md %}
-
-{% assign author = site.data.authors['Greg Garner'] | default: author %}
 {% include person_blurb.md %}
 
 ## Postdocs
@@ -31,6 +27,10 @@ toc: true
 {% assign author = site.data.authors['Kristen Joyse'] | default: author %}
 {% include person_blurb.md %}
 
+## Administrative Staff
+
+{% assign author = site.data.authors['Kathleen Parrish'] | default: author %}
+{% include person_blurb.md %}
 
 ## External Affiliates
 
@@ -51,6 +51,7 @@ toc: true
 
 * [Meredith Fish](https://scholar.google.com/citations?user=ylBUGX4AAAAJ), now Senior Data Scientist (Climate Analytics) at McKinsey & Company
 * [Andra Garner](https://sites.google.com/site/andrajreed/home?authuser=0), now faculty at Rowan University
+* [Gregory Garner](https://sites.google.com/site/gggarner121/), now Climate Change Impact Data Scientist at Gro Intelligence
 * [Daniel Gilford](http://danielgilford.com), now Climate Scientist at Climate Central
 * [Carling Hay](http://www.carlinghay.com), now Lead Climate Scientist at risQ
 * [Dawei Li](https://scholar.google.com/citations?user=qfAPnEIAAAAJ&hl=en&oi=sra),  now faculty at Shanghai Jiao Tong University
