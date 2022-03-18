@@ -7,8 +7,8 @@ main:
 #    url: /projects/
   - title: "Software"
     url: /software/
-  - title: "Impact"
-    url: /impact/
+#  - title: "Impact"
+#    url: /impact/
   - title: "Contact"
     url: /contact/
     

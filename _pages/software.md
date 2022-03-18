@@ -3,9 +3,13 @@ permalink: /software/
 title: "Software" 
 ---
 
+## Active Projects
+
 * [FACTS](https://github.com/radical-collaboration/facts): The next-generation Framework for Assessing Changes To Sea level
 
 * [CESL-STEHM-GP](https://github.com/bobkopp/CESL-STEHM-GP/releases): MATLAB code for Spatio-Temporal Empirical Hierarchical Modeling of sea-level data with Gaussian Processes; used in Kopp et al. (2016)
+
+## Past Projects
 
 * [LocalizeSL](https://github.com/bobkopp/LocalizeSL/releases): MATLAB routines to localize the sea-level rise projections of Kopp et al. (2014) and ProjectSL
 
