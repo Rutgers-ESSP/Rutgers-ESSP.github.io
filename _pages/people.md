@@ -16,6 +16,9 @@ toc: true
 
 ## Postdocs
 
+{% assign author = site.data.authors['Robert Fofrich'] | default: author %}
+{% include person_blurb.md %}
+
 {% assign author = site.data.authors['Jennifer Walker'] | default: author %}
 {% include person_blurb.md %}
   
@@ -38,39 +41,30 @@ toc: true
 {% include person_blurb.md %}
 
 
-{% assign author = site.data.authors['Daniel Gilford'] | default: author %}
-{% include person_blurb.md %}
-
-{% assign author = site.data.authors['DJ Rasmussen'] | default: author %}
-{% include person_blurb.md %}
-
 ## Alumni
 
 #### Postdocs
 {:.no_toc}
 
+* [Erica Ashe](https://scholar.google.com/citations?user=UZ1-b8IAAAAJ), now research faculty at Rutgers University
 * [Meredith Fish](https://scholar.google.com/citations?user=ylBUGX4AAAAJ), now Senior Data Scientist (Climate Analytics) at McKinsey & Company
-* [Andra Garner](https://sites.google.com/site/andrajreed/home?authuser=0), now faculty at Rowan University
+* [Andra Garner](https://sites.google.com/site/andrajreed/home?authuser=0), now tenure-track faculty at Rowan University
 * [Gregory Garner](https://sites.google.com/site/gggarner121/), now Climate Change Impact Data Scientist at Gro Intelligence
 * [Daniel Gilford](http://danielgilford.com), now Climate Scientist at Climate Central
-* [Carling Hay](http://www.carlinghay.com), now Lead Climate Scientist at risQ
-* [Dawei Li](https://scholar.google.com/citations?user=qfAPnEIAAAAJ&hl=en&oi=sra),  now faculty at Shanghai Jiao Tong University
+* [Carling Hay](http://www.carlinghay.com), now Director, Climate and Social Impact Analytics at ICE Data Services
+* [Dawei Li](https://scholar.google.com/citations?user=qfAPnEIAAAAJ&hl=en&oi=sra),  now tenure-track faculty at Shanghai Jiao Tong University
 * [Eric Morrow](http://www.ericmorrow.ca), now Director, Data Science - Machine Learning Centre of Excellence at BMO Financial Group
-*  [Laura Reynolds](https://scholar.google.com/citations?hl=en&user=dsGpWHcAAAAJ), now faculty at Worcester State
-* [Jiacan Yuan](https://scholar.google.com/citations?user=FXb2_P0AAAAJ&hl=en), now faculty at Fudan University
+* [D.J. Rasmussen](http://www.djrasmussen.co), now Risk and Resilience Consultant, Advanced Technology and Research Team at ARUP
+* [Laura Reynolds](https://scholar.google.com/citations?hl=en&user=dsGpWHcAAAAJ), now tenure-track faculty at Worcester State
+* [Jiacan Yuan](https://scholar.google.com/citations?user=FXb2_P0AAAAJ&hl=en), now tenure-track faculty at Fudan University
 
-#### Graduate students co-advised
+#### Graduate students
 {:.no_toc}
 
-* [R.D. Baluyot](https://www.linkedin.com/pub/ronidell-baluyot/72/2b5/359), Rutgers M.S. '13 in Geological Sciences
-* [Joe Majkut](https://niskanencenter.org/blog/staff/director-of-climate-science-2/), Princeton  Ph.D. '14 in Atmosphere & Ocean Sciences
-* [Shankar Chandramowli](https://www.linkedin.com/pub/shankar-chandramowli/10/4a9/78), Rutgers Ph.D. '15 in Public Policy
-* [Maya Buchanan](https://www.linkedin.com/in/maya-buchanan-b544a87/), Princeton Ph.D. '17 in Public Policy
-* [Chris Johnson](), Rutgers Ph.D. '19 in Geological Sciences
-* [Ian Bolliger](https://www.linkedin.com/in/ianbolliger/), UC-Berkeley Ph.D. ’20 in Energy & Resources Group
-* [Megan Lickley](http://paocweb.mit.edu/people/mlickley), MIT Ph.D. '20 in Earth, Atmospheric and Planetary Sciences
-* [D.J. Rasmussen](http://www.djrasmussen.co), Princeton Ph.D. '20 in Public Policy
 
+* [Erica Ashe](https://scholar.google.com/citations?user=UZ1-b8IAAAAJ), Rutgers Ph.D. ’18 in Statistics and Biostatistics
+* [Maya Buchanan](https://www.linkedin.com/in/maya-buchanan-b544a87/), Princeton Ph.D. '17 in Public Policy
+* [D.J. Rasmussen](http://www.djrasmussen.co), Princeton Ph.D. '20 in Public Policy
 
 #### Undergraduate students
 {:.no_toc}

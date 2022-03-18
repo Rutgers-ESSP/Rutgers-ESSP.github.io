@@ -13,6 +13,18 @@ Bob Kopp:
   longbio: >
      Robert Kopp is a climate scientist who serves at Rutgers University as a professor in the Department of Earth & Planetary Sciences and co-director of the University Office of Climate Action. He also directs the Megalopolitan Coastal Transformation Hub.
 
+Robert Fofrich:
+  name        : "Robert Fofrich"
+  bio    : "Postdoc"
+  avatar      : "/assets/images/portraits/robertfofrich.jpg"
+  email: robert-dot-fofrich-at-rutgers-dot-edu
+  home: https://robertfofrich.academia.edu/
+  google:
+    scholar: 5_uvPIIAAAAJ
+  longbio: >
+     Robert Fofrich is a climate scientist and postdoctoral associate in the Climate Impact Lab and the Department of Earth & Planetary Sciences at Rutgers University. Robert’s research focuses on global environmental change and human society. Specifically, climate change impacts to global society, climate change mitigation and adaptation challenges, inequity of climate change, environmental justice, anthropogenic land-use drivers, and human-driven habitat reduction, biodiversity loss, and wildlife decline. 
+
+
 Kathleen Parrish:
   name        : "Kathleen Parrish"
   bio    : "Program Coordinator"
@@ -25,20 +37,9 @@ Kathleen Parrish:
      Kathleen Parrish is a program coordinator for the Rutgers Earth System Science & Policy Lab, The Rutgers Office of Climate Action, and the Megapolitan Coastal Transformation Hub (MACH). She also serves as chair of the Byram Township Environmental Commission. Previously, Katie managed logistics and communications for virtual events and programs for the Global Council for Science and the Environment in Washington D.C. With the Energy Foundation, she helped coordinate a coalition of 30+ environmental, social justice, and business organizations advocating for clean energy and transportation policies in New Jersey. As a student at Rutgers, she founded the Rutgers Sustainability Coalition and led microplastic pollution research. She graduated in 2019 with a degree in microbiology and biked to Portland, Oregon to raise money for Elijah's Promise.
 
 
-Greg Garner:
-  name        : "Gregory Garner"
-  bio    : "Assistant Research Professor"
-  avatar      : "/assets/images/portraits/greggarner.jpg"
-  google:
-    scholar: TAW1TZAAAAAJ
-  home: https://sites.google.com/site/gggarner121/
-  longbio: >
-     I am a meteorologist and climate scientist working on a comprehensive computational framework for projecting sea-level rise in a changing climate.  Broadly, I’m interested in how people use tools and information to inform decisions.  This has afforded me the opportunity to study a diverse range of topics including weather, climate change, atmospheric chemistry, air quality, robust decision making, sea-level rise, heatwaves, and more alongside experts in social sciences, statistics, economics, philosophy, mathematics, and engineering.  I use state-of-the-art optimization tools, statistical methods, integrated assessment models, and data analysis to investigate complex problems across multiple disciplines.  I emphasize the importance of science communication throughout my research by publishing with open-access (when available), performing science-outreach activities, and sharing the products of my work through web-based tools and code repositories.
-
-
 Erica Ashe:
   name        : "Erica Ashe"
-  bio    : "Postdoc"
+  bio    : "Assistant Research Professor"
   avatar      : "/assets/images/portraits/ericaashe.jpg"
   google:
     scholar: UZ1-b8IAAAAJ
