@@ -1,4 +1,12 @@
 
+    {% if author.mastodon %}
+      <li>
+        <a href="{{ author.mastodon }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+          <i class="fab fa-fw fa-mastodon" aria-hidden="true"></i><span class="label">Mastodon</span>
+        </a>
+      </li>
+    {% endif %}
+
     {% if author.google.scholar %}
       <li>
         <a href="https://scholar.google.com/citations?user={{ author.google.scholar }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
@@ -11,14 +19,6 @@
       <li>
         <a href="http://ORCID.org/{{ author.orcid }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
           <i class="fab fa-orcid" aria-hidden="true"></i><span class="label">Orcid</span>
-        </a>
-      </li>
-    {% endif %}
-
-    {% if author.mastodon %}
-      <li>
-        <a href="{{ author.mastodon }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
-          <i class="fab fa-mastodon" aria-hidden="true"></i><span class="label">Mastodon</span>
         </a>
       </li>
     {% endif %}
