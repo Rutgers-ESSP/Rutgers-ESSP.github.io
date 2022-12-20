@@ -26,6 +26,10 @@
   <meta itemprop="email" content="{{ author.email }}" />
   <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i></a>
 {% endif %}
+{% if author.mastodon %}
+<a href="{{ author.mastodon }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+<i class="fab fa-fw fa-mastodon" aria-hidden="true"></i></a>
+{% endif %}
 {% if author.twitter %}
 <a href="https://twitter.com/{{ author.twitter }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
   <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i></a>
