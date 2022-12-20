@@ -19,20 +19,31 @@ toc: true
 {% assign author = site.data.authors['Robert Fofrich'] | default: author %}
 {% include person_blurb.md %}
 
+{% assign author = site.data.authors['Praveen Kumar'] | default: author %}
+{% include person_blurb.md %}
+
 {% assign author = site.data.authors['Jennifer Walker'] | default: author %}
 {% include person_blurb.md %}
   
 ## Graduate students
 
+
+{% assign author = site.data.authors['Diana Apoznanski'] | default: author %}
+{% include person_blurb.md %}
+
+{% assign author = site.data.authors['Dan Blanco'] | default: author %}
+{% include person_blurb.md %}
+
 {% assign author = site.data.authors['Laura Geronimo'] | default: author %}
 {% include person_blurb.md %}
 
-{% assign author = site.data.authors['Kristen Joyse'] | default: author %}
-{% include person_blurb.md %}
 
-## Administrative Staff
+## Staff
 
 {% assign author = site.data.authors['Kathleen Parrish'] | default: author %}
+{% include person_blurb.md %}
+
+{% assign author = site.data.authors['Alex Reedy'] | default: author %}
 {% include person_blurb.md %}
 
 ## External Affiliates
@@ -61,10 +72,9 @@ toc: true
 #### Graduate students
 {:.no_toc}
 
-
-* [Kristen Joyse](https://scholar.google.com/citations?user=CJNSnZcAAAAJ), Rutgers Ph.D. '22 in Earth and Planetary Sciences
 * [Erica Ashe](https://scholar.google.com/citations?user=UZ1-b8IAAAAJ), Rutgers Ph.D. ’18 in Statistics and Biostatistics
 * [Maya Buchanan](https://www.linkedin.com/in/maya-buchanan-b544a87/), Princeton Ph.D. '17 in Public Policy
+* [Kristen Joyse](https://scholar.google.com/citations?user=CJNSnZcAAAAJ), Rutgers Ph.D. '22 in Earth and Planetary Sciences
 * [D.J. Rasmussen](http://www.djrasmussen.co), Princeton Ph.D. '20 in Public Policy
 
 #### Undergraduate students
