@@ -14,3 +14,12 @@
         </a>
       </li>
     {% endif %}
+
+    {% if author.mastodon %}
+      <li>
+        <a href="{{ author.mastodon.url }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+          <i class="fab fa-mastodon" aria-hidden="true"></i><span class="label">Mastodon</span>
+        </a>
+      </li>
+    {% endif %}
+

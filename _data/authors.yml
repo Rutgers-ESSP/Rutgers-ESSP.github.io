@@ -5,7 +5,9 @@ Bob Kopp:
   bio    : "Lab Director"
   avatar      : "/assets/images/portraits/bobkopp.jpg"
   email: robert-dot-kopp-at-rutgers-dot-edu
-  twitter: bobkopp
+  mastodon:
+    id: bobkopp@fediscience.org
+    url: https://fediscience.org/@bobkopp
   home: https://www.bobkopp.net/
   google:
     scholar: ceifbhUAAAAJ
@@ -84,11 +86,22 @@ Laura Geronimo:
   name        : "Laura Geronimo"
   bio    : "Ph.D. student, Bloustein School"
   linkedin: laura-geronimo-34b33636
+  home: https://www.linkedin.com/in/laura-geronimo-34b33636
   avatar      : "/assets/images/portraits/laurageronimo.jpg"
   longbio: >
        I am pursuing a PhD in Planning and Public Policy at the Bloustein School. My research interest lies at the intersection of coastal climate risk and resilience, land use planning, and social equity issues. I plan to apply mixed methods and transdisciplinary research approaches to better understand how communities are adapting to coastal hazards. Along with the physical risks that threaten coastal communities (e.g.: sea level rise, storms and storm surge, erosion), I study the spatial distribution of social vulnerability, patterns of coastal development, and the political, institutional, and practical barriers to implementing efficient and equitable adaptation strategies. I am currently developing a research design to evaluate equity considerations in federally funded property-acquisition programs. I graduated from Georgia Tech with a Master’s degree in City and Regional Planning in 2019. Prior to Georgia Tech I spent 5 years in Puerto Rico where I worked in climate change adaptation and hazard mitigation planning. 
 
- 
+
+Diana Apoznanski:
+  name        : "Diana Apoznanski"
+  bio    : "Ph.D. student, Atmospheric Sciences"
+  home: https://www.linkedin.com/in/diana-apoznanski-976243127/
+  linkedin: diana-apoznanski-976243127
+  avatar      : "/assets/images/portraits/dianaapoznanski.png"
+  longbio: >
+       Diana has worked on the Catastrophe Modeling and Applied Research team at The Hartford Insurance Group since July 2020. She graduated from Penn State University with a B.S. in Meteorology and Atmospheric Science, a minor in Energy Business and Finance, and a Certificate in Geographic Information Science. Her professional goals include using scientific research to aid organizations affected by climate change and extreme weather events. In her free time, Diana enjoys being outdoors, whether she is hiking, bouldering, or paddle boarding. 
+
+
 Kristen Joyse:
   name        : "Kristen Joyse"
   bio    : "Ph.D. student, Earth and Planetary Sciences"
