@@ -62,6 +62,7 @@ toc: true
 {:.no_toc}
 
 
+* [Kristen Joyse](https://scholar.google.com/citations?user=CJNSnZcAAAAJ), Rutgers Ph.D. '22 in Earth and Planetary Sciences
 * [Erica Ashe](https://scholar.google.com/citations?user=UZ1-b8IAAAAJ), Rutgers Ph.D. ’18 in Statistics and Biostatistics
 * [Maya Buchanan](https://www.linkedin.com/in/maya-buchanan-b544a87/), Princeton Ph.D. '17 in Public Policy
 * [D.J. Rasmussen](http://www.djrasmussen.co), Princeton Ph.D. '20 in Public Policy
