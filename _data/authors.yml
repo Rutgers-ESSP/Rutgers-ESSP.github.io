@@ -5,9 +5,7 @@ Bob Kopp:
   bio    : "Lab Director"
   avatar      : "/assets/images/portraits/bobkopp.jpg"
   email: robert-dot-kopp-at-rutgers-dot-edu
-  mastodon:
-    id: bobkopp@fediscience.org
-    url: https://fediscience.org/@bobkopp
+  mastodon: https://fediscience.org/@bobkopp
   home: https://www.bobkopp.net/
   google:
     scholar: ceifbhUAAAAJ
