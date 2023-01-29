@@ -9,21 +9,16 @@ toc: true
 {% assign author = site.data.authors['Bob Kopp'] | default: author %}
 {% include person_blurb.md %}
 
-## Research Faculty
+## Research Faculty and Staff
 
-{% assign author = site.data.authors['Erica Ashe'] | default: author %}
+{% assign author = site.data.authors['Jennifer Walker'] | default: author %}
 {% include person_blurb.md %}
 
 ## Postdocs
 
-{% assign author = site.data.authors['Robert Fofrich'] | default: author %}
-{% include person_blurb.md %}
-
 {% assign author = site.data.authors['Praveen Kumar'] | default: author %}
 {% include person_blurb.md %}
 
-{% assign author = site.data.authors['Jennifer Walker'] | default: author %}
-{% include person_blurb.md %}
   
 ## Graduate students
 
@@ -37,7 +32,6 @@ toc: true
 {% assign author = site.data.authors['Laura Geronimo'] | default: author %}
 {% include person_blurb.md %}
 
-
 ## Staff
 
 {% assign author = site.data.authors['Kathleen Parrish'] | default: author %}
@@ -49,6 +43,9 @@ toc: true
 ## External Affiliates
 
 {% assign author = site.data.authors['Roger Creel'] | default: author %}
+{% include person_blurb.md %}
+
+{% assign author = site.data.authors['Robert Fofrich'] | default: author %}
 {% include person_blurb.md %}
 
 

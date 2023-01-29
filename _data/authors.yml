@@ -17,13 +17,23 @@ Robert Fofrich:
   name        : "Robert Fofrich"
   bio    : "Postdoc"
   avatar      : "/assets/images/portraits/robertfofrich.jpg"
-  email: robert-dot-fofrich-at-rutgers-dot-edu
   home: https://robertfofrich.academia.edu/
   google:
     scholar: 5_uvPIIAAAAJ
   longbio: >
-     Robert Fofrich is a climate scientist and postdoctoral associate in the Climate Impact Lab and the Department of Earth & Planetary Sciences at Rutgers University. Robert’s research focuses on global environmental change and human society. Specifically, climate change impacts to global society, climate change mitigation and adaptation challenges, inequity of climate change, environmental justice, anthropogenic land-use drivers, and human-driven habitat reduction, biodiversity loss, and wildlife decline. 
+     Robert Fofrich is an earth system scientist and a University of California President’s Postdoctoral Fellow at the Institute of the Environment and Sustainability at UCLA and was previously a postdoctoral associate in the Climate Impact Lab and the Department of Earth & Planetary Sciences at Rutgers University. Robert’s research focuses on global environmental change and human society. Specifically, climate change impacts to global society, climate change mitigation and adaptation challenges, inequity of climate change, environmental justice, anthropogenic land-use drivers, and human-driven habitat reduction, biodiversity loss, and wildlife decline. 
 
+
+
+Alex Reedy:
+  name        : "Alex Reedy"
+  bio    : "Research Software Engineer"
+  avatar      : "/assets/images/portraits/alexreedy.jpg"
+  email: alex-dot-reedy-at-rutgers-dot-edu
+  linkedin: alexander-reedy-5537a2124
+  github: AlexReedy
+  longbio: >
+     Alex is a Research Associate / Research Software Engineer at the Rutgers University Department of Earth and Planetary Sciences.  His focus is in optimization and testing of software to model historical and future sea-level changes. Alex received his BSc in Physics from Rowan University, and his MSc in Astrophysics from Queen Mary University of London. Before starting at Rutgers in 2023, Alex helped efforts at NASA ARC to investigate galaxy and star formation using SOFIA’s FIFI-LS Instrument. He then spent time at the California Institute of Technology where he lead the software integration of a new spectroscopy camera into the SEDM instrument at the Palomar Observatory. He also aided in the installation of SEDMv2 at the Kitt-Peak National Observatory. Alex also enjoys writing and playing music as well as climbing, hiking, and camping. 
 
 Kathleen Parrish:
   name        : "Kathleen Parrish"
@@ -52,29 +62,16 @@ Erica Ashe:
      commonly accepted ice sheet histories and earth parameter profiles, including different lithospheric thicknesses, and upper and lower mantle viscosities, I am developing a stochastic emulator of the
      sea-level equation.
 
-Meredith Fish:
-  name        : "Meredith Fish"
+Praveen Kumar:
+  name        : "Praveen Kumar"
   bio    : "Postdoc"
-  avatar      : "/assets/images/portraits/meredithfish.jpg"
-  google:
-    scholar: ylBUGX4AAAAJ
+  avatar      : "/assets/images/portraits/praveenkumar.jpg"
   longbio: >
-     Meredith completed her PhD at the Scripps Institution of Oceanography at UC San Diego for the Center for Western Weather and Water Extremes. Her dissertation focused on identifying and understanding successive atmospheric rivers that make landfall along the US West Coast, which are a type of compound event. Meredith is interested in the interaction of climate, extreme weather, policy and economics. She completed her undergraduate training at Penn State in meteorology and weather risk management. 
-
-Daniel Gilford:
-  name        : "Daniel Gilford (Climate Central)"
-  bio    : "Climate Scientist, Climate Central"
-  home : "http://danielgilford.com"
-  twitter: danielgilford
-  google: 
-    scholar: NS90lkUAAAAJ
-  avatar      : "/assets/images/portraits/danielgilford.jpg"
-  longbio: >
-      I am a climate scientist seeking to answer the question "How do aspects of climate evolve and affect local coastal communities?" My current research focuses the deep uncertainties in polar ice-sheet contributions to global and local sea level rise. I use a blend of statistical and machine learning techniques to study ice-sheet model emulation, the emergence of Antarctic contributions to sea level rise, and paleoclimate/observational constraints on ice-sheet model projections. I studied Atmospheric Science with Prof. Susan Solomon at the Massachusetts Institute of Technology, and received my doctorate degree in 2018. My graduate research fused middle atmospheric chemistry, radiation, and tropical cyclone theory to explore tropopause region influences on hurricane intensities. Connecting my expertise in sea level and hurricane science, I am also actively investigating changes in future coastal hazards and flooding. I’m motivated to work on societally relevant problems and science communication, and I aspire to connect science and communities. I also aim to teach and prepare the next generation of scientists to meet the challenges posed by climate change. From 2018-2021, I was a postdoc at Rutgers.
+     Praveen Kumar is a postdoctoral researcher in the Earth System Science & Policy Lab at Rutgers University, where he currently works on producing sea-level hindcasts and projections using the Framework for Assessment of Changes To Sea-level (FACTS). His research focuses on understanding the role of climate variability in influencing ocean-atmosphere interactions through the examination of feedbacks between ice sheets, oceans, and the atmosphere. In addition to his work on sea-level change, Praveen is also interested in the potential impact of climate variability on the economy and human well-being, as well as the application of climate risk management under conditions of deep uncertainty. As a native of the Goan coastline, Praveen is committed to understanding the potential risks that climate change poses to global coastal communities. In his leisure time, Praveen enjoys playing table tennis, cooking, and spending time by the water.
 
 Jennifer Walker:
   name        : "Jennifer Walker"
-  bio    : "Postdoc"
+  bio    : "Assistant Research Professor"
   google:
     scholar:  0Co0dxEAAAAJ
   avatar      : "/assets/images/portraits/jwalker.jpg"
@@ -100,6 +97,16 @@ Diana Apoznanski:
   longbio: >
        Diana has worked on the Catastrophe Modeling and Applied Research team at The Hartford Insurance Group since July 2020. She graduated from Penn State University with a B.S. in Meteorology and Atmospheric Science, a minor in Energy Business and Finance, and a Certificate in Geographic Information Science. Her professional goals include using scientific research to aid organizations affected by climate change and extreme weather events. In her free time, Diana enjoys being outdoors, whether she is hiking, bouldering, or paddle boarding. 
 
+
+
+Dan Blanco:
+  name        : "Dan Blanco"
+  bio    : "Ph.D. student, Atmospheric Sciences"
+  home: https://www.linkedin.com/in/daniel-blanco-64310b21a/
+  linkedin: daniel-blanco-64310b21a
+  avatar      : "/assets/images/portraits/danblanco.jpg"
+  longbio: >
+       Dan Blanco is a PhD student in the Atmospheric Science program through the Department of Environmental Sciences at Rutgers University. They hold a Bachelor’s degree in Physics with an emphasis in mathematics from Lewis University. They are a former CIERA REU student through Northwestern University where their work focused on the Laurentian Great Lakes hydrology. They are affiliated with the Climate Impact Lab and the MACH Hazards Team. Their work aims to use climate models in better understanding the idea of time of emergence of climate change, particularly when it comes to future projections of sea level rise.  A combination of natural hazards forecasting and socioeconomic data will be used alongside statistical methods to determine the time of emergence of sea level rise for the Northeastern U.S. This work will assist policy makers and urban planners to determine when and where detections of sea-level changes become regionally evident beyond natural variability. Local risk assessment, mitigation, and adaptation planning can benefit from this work to better facilitate community responses to sea level rise.
 
 Kristen Joyse:
   name        : "Kristen Joyse"
