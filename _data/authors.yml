@@ -23,6 +23,42 @@ Robert Fofrich:
   longbio: >
      Robert Fofrich is an earth system scientist and a University of California President’s Postdoctoral Fellow at the Institute of the Environment and Sustainability at UCLA and was previously a postdoctoral associate in the Climate Impact Lab and the Department of Earth & Planetary Sciences at Rutgers University. Robert’s research focuses on global environmental change and human society. Specifically, climate change impacts to global society, climate change mitigation and adaptation challenges, inequity of climate change, environmental justice, anthropogenic land-use drivers, and human-driven habitat reduction, biodiversity loss, and wildlife decline. 
 
+Praveen Kumar:
+  name        : "Praveen Kumar"
+  bio    : "Postdoc"
+  #avatar      : "/assets/images/portraits/User_Avatar.png"
+  email: praveen-dot-kumar-at-rutgers-dot-edu
+  #home: https://robertfofrich.academia.edu/
+  #google:
+  #  scholar: 5_uvPIIAAAAJ
+  #longbio: >
+  #   Robert Fofrich is a climate scientist and postdoctoral associate in the Climate Impact Lab and the Department of Earth & Planetary Sciences at Rutgers University. Robert’s research focuses on global environmental change and human society. Specifically, climate change impacts to global society, climate change mitigation and adaptation challenges, inequity of climate change, environmental justice, anthropogenic land-use drivers, and human-driven habitat reduction, biodiversity loss, and wildlife decline. 
+
+Alex Reedy:
+  name        : "Alex Reedy"
+  bio    : "Research software engineer"
+  github: AlexReedy
+  #avatar      : "/assets/images/portraits/User_Avatar.png"
+  #email: d-dot-blanco-at-rutgers-dot-edu
+  #home: https://robertfofrich.academia.edu/
+  #google:
+  #  scholar: 5_uvPIIAAAAJ
+  #longbio: >
+  #   Robert Fofrich is a climate scientist and postdoctoral associate in the Climate Impact Lab and the Department of Earth & Planetary Sciences at Rutgers University. Robert’s research focuses on global environmental change and human society. Specifically, climate change impacts to global society, climate change mitigation and adaptation challenges, inequity of climate change, environmental justice, anthropogenic land-use drivers, and human-driven habitat reduction, biodiversity loss, and wildlife decline. 
+
+
+Dan Blanco:
+  name        : "Dan Blanco"
+  bio    : "Ph.D student, Atmospheric Sciences"
+  linkedin: daniel-blanco-64310b21a
+  #avatar      : "/assets/images/portraits/User_Avatar.png"
+  email: d-dot-blanco-at-rutgers-dot-edu
+  #home: https://robertfofrich.academia.edu/
+  #google:
+  #  scholar: 5_uvPIIAAAAJ
+  #longbio: >
+  #   Robert Fofrich is a climate scientist and postdoctoral associate in the Climate Impact Lab and the Department of Earth & Planetary Sciences at Rutgers University. Robert’s research focuses on global environmental change and human society. Specifically, climate change impacts to global society, climate change mitigation and adaptation challenges, inequity of climate change, environmental justice, anthropogenic land-use drivers, and human-driven habitat reduction, biodiversity loss, and wildlife decline. 
+
 
 
 Alex Reedy:
