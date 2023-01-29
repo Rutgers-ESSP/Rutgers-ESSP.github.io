@@ -144,34 +144,6 @@ Dan Blanco:
   longbio: >
        Dan Blanco is a PhD student in the Atmospheric Science program through the Department of Environmental Sciences at Rutgers University. They hold a Bachelor’s degree in Physics with an emphasis in mathematics from Lewis University. They are a former CIERA REU student through Northwestern University where their work focused on the Laurentian Great Lakes hydrology. They are affiliated with the Climate Impact Lab and the MACH Hazards Team. Their work aims to use climate models in better understanding the idea of time of emergence of climate change, particularly when it comes to future projections of sea level rise.  A combination of natural hazards forecasting and socioeconomic data will be used alongside statistical methods to determine the time of emergence of sea level rise for the Northeastern U.S. This work will assist policy makers and urban planners to determine when and where detections of sea-level changes become regionally evident beyond natural variability. Local risk assessment, mitigation, and adaptation planning can benefit from this work to better facilitate community responses to sea level rise.
 
-Kristen Joyse:
-  name        : "Kristen Joyse"
-  bio    : "Ph.D. student, Earth and Planetary Sciences"
-  home: http://geology.rutgers.edu/people-directory/24-graduate-students/707-kristen-joyse
-  avatar      : "/assets/images/portraits/kristenjoyse.jpg"
-  google:
-    scholar: CJNSnZcAAAAJ
-  longbio: >
-     I am a geoscientist interested in using evidence of past climate change to improve understanding of physical Earth systems and projections of future climate. My interests lie particularly within aspects of climate that have large social implications, including sea level rise, major storm frequency, and resource availability. I am currently a member of Rutgers University’s first cohort of trainees in the Coastal Climate Risk and Resilience initiative, which focuses on the transdisciplinary research and collaboration I am interested in. My current research is focused on relative sea level rise in the Western Mediterranean Basin and its implications for past civilizations. Additionally, I am working on a paleostorm reconstruction for the New Jersey coast from overwash deposits in backbarrier environments.
-
-DJ Rasmussen:
-  name        : "D.J. Rasmussen (Princeton)"
-  bio    : "Postdoc, Princeton SPIA"
-  home: http://www.djrasmussen.co
-  avatar      : "/assets/images/portraits/djrasmussen.jpg"
-  google: 
-    scholar: yocPWzYAAAAJ
-  longbio: >
-     I study both the physical and social science aspects of sea-level rise and coastal floods. My career goal is to produce new research that equips coastal stakeholders with information that can aid decisions on coastal flood protection strategies. My hope is that these efforts will lead to future planning and policies that save money and protect human lives. Recently, I’ve been developing a framework for designing coastal flood protection under uncertain sea-level rise. I also examine the politics surrounding efforts to conceive, design, and implement coastal flood protection mega-projects, such as storm surge barriers. I completed my PhD in Public Policy & International Affairs in 2020, and I also have a BS in Atmospheric & Oceanic Science and an MS in Civil & Environmental Engineering.
-
-Ian Bolliger:
-  name        : "Ian Bolliger (UC-Berkeley)"
-  bio    : "Ph.D. student, UC-Berkeley"
-  home: https://erg.berkeley.edu/people/bolliger-ian
-  avatar      : "/assets/images/portraits/ianbolliger.jpg"
-  longbio: >
-     I am a Berkeley Graduate Fellow in the Energy and Resources Group (ERG) and the Global Policy Laboratory (GPL) at UC Berkeley, advised by Solomon Hsiang and Daniel Kammen. I am a member of the Climate Impact Lab, in which my research focuses predicting regional, socioeconomic impacts of climate change on coastal communities. I use both empirical and dynamical modeling approaches to address this task, often leveraging the growing database of global satellite imagery. Currently, I am developing a spatially-resolved, probabilistic quantification of the economic risk to coastal communities due to changes in hurricane frequency and intensity that are driven by climate change. I earned my BA in Applied Mathematics from Harvard University in 2011 and MS degrees in Energy and Resources (2016) and Civil and Environmental Engineering (2017) from UC Berkeley. Prior to graduate school I modeled global disease burden at the Institute for Health Metrics and Evaluation in my hometown of Seattle, WA.
-
 
 Roger Creel:
   name        : "Roger Creel (Columbia)"
@@ -181,7 +153,3 @@ Roger Creel:
     scholar: NrDFVVUAAAAJ
   longbio: >
     Roger is a graduate student at Columbia University working with Dr. Jacky Austermann. His research uses records of past sea level to understand ice volume changes during glacial cycles. Current projects involve detecting a Holocene readvance of the Antarctic ice sheet in the sea level record and modeling how Antarctic inception ~34 million years ago changed sea levels. Roger graduated from Amherst College in 2013 with degrees in geology and English, and danced professionally with the Louisville Ballet before matriculating at Columbia.
-
-Dawei Li:
-  name        : "Dawei Li"
-  avatar      : "/assets/images/portraits/daweili.jpg"
