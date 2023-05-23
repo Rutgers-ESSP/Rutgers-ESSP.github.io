@@ -19,6 +19,8 @@ toc: true
 {% assign author = site.data.authors['Praveen Kumar'] | default: author %}
 {% include person_blurb.md %}
 
+{% assign author = site.data.authors['Yucheng Lin'] | default: author %}
+{% include person_blurb.md %}
   
 ## Graduate students
 

@@ -13,6 +13,18 @@ Bob Kopp:
   longbio: >
      Robert Kopp is a climate scientist who serves at Rutgers University as a professor in the Department of Earth & Planetary Sciences and co-director of the University Office of Climate Action. He also directs the Megalopolitan Coastal Transformation Hub.
 
+
+Yucheng Lin:
+  name        : "Yucheng Lin"
+  bio    : "Postdoc"
+  avatar      : "/assets/images/portraits/yuchenglin.jpg"
+  home: https://yc-lin.com/
+  twitter: yucheng_geo
+  google:
+    scholar: LKD_TNwAAAAJ
+  longbio: >
+     Yucheng Lin is a postdoctoral researcher in the Earth System Science & Policy Lab at Rutgers University working on the PaleoSTeHM project that aims to produce a modern and scalable spatio-temporal hierarchical modelling framework for paleo-environmental data. His research examines different physical processes impact on sea-level change in the past and future under changing climate. He focuses on developing novel physical and statistical tools to better understand the mechanisms that drive spatio-temporal variability of sea-level change, which can be used to produce more accurate and robust sea-level projections. In free time, Yucheng enjoys reading, cooking, climbing and hiking.    
+
 Robert Fofrich:
   name        : "Robert Fofrich"
   bio    : "Postdoc"
