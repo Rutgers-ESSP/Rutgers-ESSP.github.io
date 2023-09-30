@@ -9,11 +9,6 @@ toc: true
 {% assign author = site.data.authors['Bob Kopp'] | default: author %}
 {% include person_blurb.md %}
 
-## Research Faculty and Staff
-
-{% assign author = site.data.authors['Jennifer Walker'] | default: author %}
-{% include person_blurb.md %}
-
 ## Postdocs
 
 {% assign author = site.data.authors['Praveen Kumar'] | default: author %}
@@ -36,7 +31,7 @@ toc: true
 
 ## Staff
 
-{% assign author = site.data.authors['Kathleen Parrish'] | default: author %}
+{% assign author = site.data.authors['Moira Sweeder'] | default: author %}
 {% include person_blurb.md %}
 
 {% assign author = site.data.authors['Alex Reedy'] | default: author %}
@@ -56,7 +51,7 @@ toc: true
 #### Postdocs
 {:.no_toc}
 
-* [Erica Ashe](https://scholar.google.com/citations?user=UZ1-b8IAAAAJ), now research faculty at Rutgers University
+* [Erica Ashe](https://scholar.google.com/citations?user=UZ1-b8IAAAAJ), now freelance data scientist
 * [Meredith Fish](https://scholar.google.com/citations?user=ylBUGX4AAAAJ), now Senior Data Scientist (Climate Analytics) at McKinsey & Company
 * [Andra Garner](https://sites.google.com/site/andrajreed/home?authuser=0), now tenure-track faculty at Rowan University
 * [Gregory Garner](https://sites.google.com/site/gggarner121/), now Climate Change Impact Data Scientist at Gro Intelligence
@@ -66,6 +61,7 @@ toc: true
 * [Eric Morrow](http://www.ericmorrow.ca), now Director, Data Science - Machine Learning Centre of Excellence at BMO Financial Group
 * [D.J. Rasmussen](http://www.djrasmussen.co), now Risk and Resilience Consultant, Advanced Technology and Research Team at ARUP
 * [Laura Reynolds](https://scholar.google.com/citations?hl=en&user=dsGpWHcAAAAJ), now tenure-track faculty at Worcester State
+* [Jennifer Walker](https://scholar.google.com/citations?hl=en&user=0Co0dxEAAAAJ), now tenture-track faculty at Rowan University
 * [Jiacan Yuan](https://scholar.google.com/citations?user=FXb2_P0AAAAJ&hl=en), now tenure-track faculty at Fudan University
 
 #### Graduate students
