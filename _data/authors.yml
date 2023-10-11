@@ -70,13 +70,13 @@ Alex Reedy:
      Alex is a Research Associate / Research Software Engineer at the Rutgers University Department of Earth and Planetary Sciences.  His focus is in optimization and testing of software to model historical and future sea-level changes. Alex received his BSc in Physics from Rowan University, and his MSc in Astrophysics from Queen Mary University of London. Before starting at Rutgers in 2023, Alex helped efforts at NASA ARC to investigate galaxy and star formation using SOFIA’s FIFI-LS Instrument. He then spent time at the California Institute of Technology where he lead the software integration of a new spectroscopy camera into the SEDM instrument at the Palomar Observatory. He also aided in the installation of SEDMv2 at the Kitt-Peak National Observatory. Alex also enjoys writing and playing music as well as climbing, hiking, and camping. 
 
 Moira Sweeder:
-  name        : "Moira Sweeder"
+  name        : "Moira Scheeler"
   bio    : "Program Coordinator"
   avatar      : "/assets/images/portraits/moirasweeder.jpg"
-  email: moira-dot-sweeder-at-rutgers-dot-edu
+  email: moira-dot-scheeler-at-rutgers-dot-edu
   linkedin: moirasweeder
   longbio: >
-     Moira Sweeder is a program coordinator for the Rutgers Earth System Science & Policy Lab and the Megapolitan Coastal Transformation Hub (MACH). In 2023 she earned my Masters of City and Regional Planning at Rutgers University, concentrating in Environmental Planning & Coastal Resilience. In 2021 I earned my bachelors degree in Sustainability from Stockton University with a focus in Environmental Policy and Economics. 
+     Moira Scheeler is a program coordinator for the Rutgers Earth System Science & Policy Lab and the Megapolitan Coastal Transformation Hub (MACH). In 2023 she earned my Masters of City and Regional Planning at Rutgers University, concentrating in Environmental Planning & Coastal Resilience. In 2021 I earned my bachelors degree in Sustainability from Stockton University with a focus in Environmental Policy and Economics. 
 
 
 Erica Ashe:
@@ -140,7 +140,7 @@ Dan Blanco:
 
 
 Roger Creel:
-  name        : "Roger Creel (Columbia)"
+  name        : "Roger Creel"
   bio    : "Ph.D. student, Columbia Unviersity"
   linkedin: roger-creel-18629145
   google:
