@@ -21,4 +21,4 @@ title: "Software"
 
 * [SeaLGaP](http://www.bobkopp.net/code/SeaLGaP-2.0.zip): Sea Level Gaussian Process analysis of Kopp et al. (2009)
 
-* [WetBulb.m](http://www.bobkopp.net/code/WetBulb.m): MATLAB function to calculate wet-bulb temperatures from temperature, pressure, and humidity; ported from HumanIndexMod ([Buzan et al., 2015](http://dx.doi.org/10.5194/gmd-8-151-2015)) 
+* [WetBulb.m](https://github.com/bobkopp/WetBulb.m): MATLAB function to calculate wet-bulb temperatures from temperature, pressure, and humidity; ported from HumanIndexMod ([Buzan et al., 2015](http://dx.doi.org/10.5194/gmd-8-151-2015)) 
