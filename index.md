@@ -22,3 +22,4 @@ Within MACH, our team provides overall project leadership, contributes to projec
 The Lab also develops cyberinfrastructure to support climate hazard analysis. 
 The [Framework for Assessing Changes To Sea-level (FACTS)](https://github.com/radical-collaboration/facts), an open-source sea-level projection framework, supports the integration of projections for sea-level projections including those the [Intergovernmental Panel on Climate Change’s Sixth Assessment Report](https://sealevel.nasa.gov/ipcc-ar6-sea-level-projection-tool) and the [US Interagency Sea Level Rise Task Force](https://sealevel.nasa.gov/task-force-scenario-tool).  Our spatiotemporal modeling framework [PaleoSTeHM](https://github.com/radical-collaboration/PaleoSTeHM/) makes readily accessible modern techniques for reconstructing paleo-sea level and paleo-environmental fields.
 
+Please see the [Contact](contact) page if you are interested in joining our team as a graduate student or postdoc.
