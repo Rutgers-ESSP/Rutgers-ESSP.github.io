@@ -3,7 +3,7 @@ permalink: /contact/
 title: "Contact" 
 ---
 
-**For more information about the Lab**, please contact program coordinator [Moira Scheeler](mailto:moira-dot-scheeler-at-rutgers-dot-edu).
+**For more information about the Lab**, please contact program coordinator [Tara Collins](mailto:tara-dot-collins-at-marine-dot-rutgers-dot-edu).
 
 **Joining our team**: We welcome applications from potential graduate students and postdocs with strong computational skills who want to join our group's eclectic mix of geoscientists, climate modelers, statisticians, and policy scholars. Potential graduate students can apply through a variety of Rutgers programs, including [Atmospheric Science](https://grad.rutgers.edu/academics/programs/atmospheric-science), [Earth and Planetary Sciences](https://grad.rutgers.edu/academics/programs/earth-and-planetary-sciences),  [Oceanography](https://grad.rutgers.edu/academics/programs/graduate-program-oceanography), [Statistics](https://grad.rutgers.edu/academics/programs/statistics), and [Planning and Public Policy](https://grad.rutgers.edu/academics/programs/planning-public-policy). Almost all students in our group participate in the [Coastal Climate Risk & Resilience](http://c2r2.rutgers.edu/) certificate program. 
 
