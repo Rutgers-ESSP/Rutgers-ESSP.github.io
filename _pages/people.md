@@ -36,30 +36,30 @@ toc: true
 #### Postdocs
 {:.no_toc}
 
-* [Erica Ashe](https://scholar.google.com/citations?user=UZ1-b8IAAAAJ)
-* [Meredith Fish](https://www.linkedin.com/in/meredith-fish-01492b5a)
-* [Robert Fofrich](https://robertfofrich.academia.edu)
-* [Andra Garner](https://sites.google.com/site/andrajreed/home)
-* [Gregory Garner](https://sites.google.com/site/gggarner121/)
-* [Laura Geronimo](https://www.linkedin.com/in/laura-geronimo-02080206/)
-* [Daniel Gilford](https://www.linkedin.com/in/danielgilford/)
-* [Carling Hay](https://www.linkedin.com/in/carling-hay-4479377b/)
-* [LI Dawei](https://soo.sjtu.edu.cn/en/teacher-list/lidawei.html)
-* [Yucheng Lin](https://yclincom.wordpress.com/)
-* [Eric Morrow](https://www.linkedin.com/in/morroweric/)
-* [D.J. Rasmussen](http://www.djrasmussen.co)
-* [Laura Reynolds](https://lauracreynolds.weebly.com/)
-* [Jennifer Walker](https://scholar.google.com/citations?hl=en&user=0Co0dxEAAAAJ)
-* [YUAN Jiacan](https://scholar.google.com/citations?user=FXb2_P0AAAAJ&hl=en)
+* [Carling Hay](https://www.linkedin.com/in/carling-hay-4479377b/) (2012-2017)
+* [Eric Morrow](https://www.linkedin.com/in/morroweric/) (2014-2015)
+* [YUAN Jiacan](https://scholar.google.com/citations?user=FXb2_P0AAAAJ&hl=en) (2015-2018)
+* [Andra Garner](https://sites.google.com/site/andrajreed/home) (2016-2018)
+* [Gregory Garner](https://sites.google.com/site/gggarner121/) (2018-2019)
+* [LI Dawei](https://soo.sjtu.edu.cn/en/teacher-list/lidawei.html) (2018-2019)
+* [Laura Reynolds](https://lauracreynolds.weebly.com/) (2018-2020)
+* [Erica Ashe](https://scholar.google.com/citations?user=UZ1-b8IAAAAJ) (2018-2021)
+* [Daniel Gilford](https://www.linkedin.com/in/danielgilford/) (2018-2021)
+* [Jennifer Walker](https://scholar.google.com/citations?hl=en&user=0Co0dxEAAAAJ) (2019-2022)
+* [Meredith Fish](https://www.linkedin.com/in/meredith-fish-01492b5a) (2020-2021)
+* [D.J. Rasmussen](http://www.djrasmussen.co) (2020-2201)
+* [Robert Fofrich](https://robertfofrich.academia.edu) (2022)
+* [Yucheng Lin](https://yclincom.wordpress.com/) (2023-2024)
+* [Laura Geronimo](https://www.linkedin.com/in/laura-geronimo-02080206/) (2024-2025)
 
 #### Graduate students
 {:.no_toc}
 
-* [Erica Ashe](https://scholar.google.com/citations?user=UZ1-b8IAAAAJ), Rutgers Ph.D. ’18 in Statistics and Biostatistics
 * [Maya Buchanan](https://www.linkedin.com/in/maya-buchanan-b544a87/), Princeton Ph.D. '17 in Public Policy
+* [Erica Ashe](https://scholar.google.com/citations?user=UZ1-b8IAAAAJ), Rutgers Ph.D. ’18 in Statistics and Biostatistics
+* [D.J. Rasmussen](http://www.djrasmussen.co), Princeton Ph.D. '20 in Public Policy
 * [Kristen Joyse](https://www.linkedin.com/in/kristen-joyse-thompson-0a6b302a3/), Rutgers Ph.D. '22 in Earth & Planetary Sciences and Coastal Climate Risk &
 Resilience
-* [D.J. Rasmussen](http://www.djrasmussen.co), Princeton Ph.D. '20 in Public Policy
 * [Laura Geronimo](https://www.linkedin.com/in/laura-geronimo-02080206/), Rutgers Ph.D. '24 in Planning & Public Policy and Coastal Climate Risk &
 Resilience
 
@@ -76,10 +76,10 @@ Resilience
 
 ### Research Staff
 
-* [Erica Ashe](https://scholar.google.com/citations?user=UZ1-b8IAAAAJ)
-* [Gregory Garner](https://sites.google.com/site/gggarner121/)
-* [Alex Reedy](https://www.linkedin.com/in/alexander-reedy-5537a2124/)
+* [Gregory Garner](https://sites.google.com/site/gggarner121/) (2019-2022)
+* [Erica Ashe](https://scholar.google.com/citations?user=UZ1-b8IAAAAJ) (2021-2023)
+* [Alex Reedy](https://www.linkedin.com/in/alexander-reedy-5537a2124/) (2023-2024)
 
 ### External Affiliates
 
-* [Roger Creel](https://www.linkedin.com/in/roger-creel-18629145/)
+* [Roger Creel](https://www.linkedin.com/in/roger-creel-18629145/) (2018-2025)
