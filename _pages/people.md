@@ -60,7 +60,7 @@ toc: true
 * [Kristen Joyse](https://www.linkedin.com/in/kristen-joyse-thompson-0a6b302a3/), Rutgers Ph.D. '22 in Earth & Planetary Sciences and Coastal Climate Risk &
 Resilience
 * [D.J. Rasmussen](http://www.djrasmussen.co), Princeton Ph.D. '20 in Public Policy
-* [Laura Geronimo](https://www.linkedin.com/in/laura-geronimo-02080206/), Rutgers Ph.D. '24 in Planning & Public Policy] and Coastal Climate Risk &
+* [Laura Geronimo](https://www.linkedin.com/in/laura-geronimo-02080206/), Rutgers Ph.D. '24 in Planning & Public Policy and Coastal Climate Risk &
 Resilience
 
 #### Undergraduate students
