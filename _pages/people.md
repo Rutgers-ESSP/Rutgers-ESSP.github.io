@@ -25,6 +25,9 @@ toc: true
 
 ## Staff
 
+{% assign author = site.data.authors['Moira Sweeder'] | default: author %}
+{% include person_blurb.md %}
+
 {% assign author = site.data.authors['Tara Collins'] | default: author %}
 {% include person_blurb.md %}
 
