@@ -13,9 +13,6 @@ toc: true
 
 {% assign author = site.data.authors['Praveen Kumar'] | default: author %}
 {% include person_blurb.md %}
-
-{% assign author = site.data.authors['Yucheng Lin'] | default: author %}
-{% include person_blurb.md %}
   
 ## Graduate students
 
@@ -26,9 +23,6 @@ toc: true
 {% assign author = site.data.authors['Dan Blanco'] | default: author %}
 {% include person_blurb.md %}
 
-{% assign author = site.data.authors['Laura Geronimo'] | default: author %}
-{% include person_blurb.md %}
-
 ## Staff
 
 {% assign author = site.data.authors['Moira Sweeder'] | default: author %}
@@ -37,43 +31,37 @@ toc: true
 {% assign author = site.data.authors['Tara Collins'] | default: author %}
 {% include person_blurb.md %}
 
-{% assign author = site.data.authors['Alex Reedy'] | default: author %}
-{% include person_blurb.md %}
-
-## External Affiliates
-
-{% assign author = site.data.authors['Roger Creel'] | default: author %}
-{% include person_blurb.md %}
-
-{% assign author = site.data.authors['Robert Fofrich'] | default: author %}
-{% include person_blurb.md %}
-
-
 ## Alumni
 
 #### Postdocs
 {:.no_toc}
 
-* [Erica Ashe](https://scholar.google.com/citations?user=UZ1-b8IAAAAJ), now freelance data scientist
-* [Meredith Fish](https://scholar.google.com/citations?user=ylBUGX4AAAAJ), now Senior Data Scientist (Climate Analytics) at McKinsey & Company
-* [Andra Garner](https://sites.google.com/site/andrajreed/home?authuser=0), now tenure-track faculty at Rowan University
-* [Gregory Garner](https://sites.google.com/site/gggarner121/), now Climate Change Impact Data Scientist at Gro Intelligence
-* [Daniel Gilford](http://danielgilford.com), now Climate Scientist at Climate Central
-* [Carling Hay](http://www.carlinghay.com), now Director, Climate and Social Impact Analytics at ICE Data Services
-* [Dawei Li](https://scholar.google.com/citations?user=qfAPnEIAAAAJ&hl=en&oi=sra),  now tenure-track faculty at Shanghai Jiao Tong University
-* [Eric Morrow](http://www.ericmorrow.ca), now Director, Data Science - Machine Learning Centre of Excellence at BMO Financial Group
-* [D.J. Rasmussen](http://www.djrasmussen.co), now Risk and Resilience Consultant, Advanced Technology and Research Team at ARUP
-* [Laura Reynolds](https://scholar.google.com/citations?hl=en&user=dsGpWHcAAAAJ), now tenure-track faculty at Worcester State
-* [Jennifer Walker](https://scholar.google.com/citations?hl=en&user=0Co0dxEAAAAJ), now tenture-track faculty at Rowan University
-* [Jiacan Yuan](https://scholar.google.com/citations?user=FXb2_P0AAAAJ&hl=en), now tenure-track faculty at Fudan University
+* [Erica Ashe](https://scholar.google.com/citations?user=UZ1-b8IAAAAJ)
+* [Meredith Fish](https://www.linkedin.com/in/meredith-fish-01492b5a)
+* [Robert Fofrich](https://robertfofrich.academia.edu)
+* [Andra Garner](https://sites.google.com/site/andrajreed/home)
+* [Gregory Garner](https://sites.google.com/site/gggarner121/)
+* [Laura Geronimo](https://www.linkedin.com/in/laura-geronimo-02080206/)
+* [Daniel Gilford](https://www.linkedin.com/in/danielgilford/)
+* [Carling Hay](https://www.linkedin.com/in/carling-hay-4479377b/)
+* [LI Dawei](https://soo.sjtu.edu.cn/en/teacher-list/lidawei.html)
+* [Yucheng Lin](https://yclincom.wordpress.com/)
+* [Eric Morrow](https://www.linkedin.com/in/morroweric/)
+* [D.J. Rasmussen](http://www.djrasmussen.co)
+* [Laura Reynolds](https://lauracreynolds.weebly.com/)
+* [Jennifer Walker](https://scholar.google.com/citations?hl=en&user=0Co0dxEAAAAJ)
+* [YUAN Jiacan](https://scholar.google.com/citations?user=FXb2_P0AAAAJ&hl=en)
 
 #### Graduate students
 {:.no_toc}
 
 * [Erica Ashe](https://scholar.google.com/citations?user=UZ1-b8IAAAAJ), Rutgers Ph.D. ’18 in Statistics and Biostatistics
 * [Maya Buchanan](https://www.linkedin.com/in/maya-buchanan-b544a87/), Princeton Ph.D. '17 in Public Policy
-* [Kristen Joyse](https://scholar.google.com/citations?user=CJNSnZcAAAAJ), Rutgers Ph.D. '22 in Earth and Planetary Sciences
+* [Kristen Joyse](https://www.linkedin.com/in/kristen-joyse-thompson-0a6b302a3/), Rutgers Ph.D. '22 in Earth & Planetary Sciences and Coastal Climate Risk &
+Resilience
 * [D.J. Rasmussen](http://www.djrasmussen.co), Princeton Ph.D. '20 in Public Policy
+* [Laura Geronimo](https://www.linkedin.com/in/laura-geronimo-02080206/), Rutgers Ph.D. '24 in Planning & Public Policy] and Coastal Climate Risk &
+Resilience
 
 #### Undergraduate students
 {:.no_toc}
@@ -81,8 +69,17 @@ toc: true
 * [Corie Hlavaty](https://www.linkedin.com/in/corie-hlavaty-7a2a92b2/) (senior thesis student; BS '13 in Geological Sciences)
 * [Kinan Tadmori](https://www.linkedin.com/pub/kinan-tadmori/b0/42a/212) (undergraduate research assistant, 2012-2013; BS '15 in Biological Sciences/Environmental Policy)
 * [Andrew Wang](https://www.linkedin.com/in/andrewericwang/) (undergraduate research assistant, 2012-2013; BS '15 in Mechanical Engineering)
-* [Zeal Shah](https://www.linkedin.com/pub/zeal-shah/a3/902/353) (undergraduate research assistant, 2013-2014; BS '15 in Mechanical Engineering)
+* [Zeal Shah](https://www.linkedin.com/in/zeal-d-shah/) (undergraduate research assistant, 2013-2014; BS '15 in Mechanical Engineering)
 * [Emily Zee](https://www.linkedin.com/pub/emily-zee/89/19a/56) (undergraduate research assistant, 2013-2014; BS '16 in Mechanical Engineering)
 * [Christina Williamson](http://reu.dimacs.rutgers.edu/~chrisw/) (summer research experience, 2016; Pomona College)
 * [Rachel DiSciullo](https://www.linkedin.com/pub/rachel-k-disciullo/8a/931/431) (undergraduate research assistant, 2015-2016; BS '16 in Philosophy and Political Science)
 
+### Research Staff
+
+* [Erica Ashe](https://scholar.google.com/citations?user=UZ1-b8IAAAAJ)
+* [Gregory Garner](https://sites.google.com/site/gggarner121/)
+* [Alex Reedy](https://www.linkedin.com/in/alexander-reedy-5537a2124/)
+
+### External Affiliates
+
+* [Roger Creel](https://www.linkedin.com/in/roger-creel-18629145/)
